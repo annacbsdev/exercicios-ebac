@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 300px;
+}
+
+
+#btn-enviar{
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.img-certo,
+.img-erro{
+    width: 50px;
+    margin-top: 12px
+}
